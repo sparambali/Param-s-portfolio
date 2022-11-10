@@ -21,7 +21,7 @@ This is a project where I build a recommendation system for a movie dataset
 
 * I used python to answer the number of questions and to analyse the dataset.
 
-#[project 3: loptop price predictor](https://github.com/sparambali/laptop-price-predictor)
+# [project 3: loptop price predictor](https://github.com/sparambali/laptop-price-predictor)
 
 *This is a project where i build model which predict the price of the different laptop
 
