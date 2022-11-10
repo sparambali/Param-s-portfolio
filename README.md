@@ -1,1 +1,22 @@
-# param-s-portfolio
+# Paramvir's portfolio
+
+# [project 1:movie Recommendation system](https://github.com/sparambali/movie-recommending-system)
+
+This is a project where I build a recommendation system for a movie dataset
+
+*Data was taken from tmdb-database
+
+*The model uses both; content based filtering techniques and collobrative filtering technique
+
+*Algorithm used: Regularisation,K-nearest neighbour,singular value decomposition
+
+*I  used python languge to visualise the dataset and build the model
+
+
+# [project 2:recommding customer to premium insurance](https://github.com/sparambali/capstone-project1)
+
+*dataset was taken from kaggle
+
+*The main idea behind this project is to showcase the potential clients for the company
+
+* I used python to answer the number of questions and to analyse the dataset.
